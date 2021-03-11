@@ -1,0 +1,43 @@
+Comment,Designator,Footprint,LCSC Part #
+"4u7 Unpolarized capacitor, small symbol",C1,C_0603_1608Metric, C19666
+"2u2 Unpolarized capacitor, small symbol","C2,C4",C_0603_1608Metric,C23630
+"100n Unpolarized capacitor, small symbol","C3,C5,C7,C9,C17",C_0402_1005Metric, C1525
+"10u Unpolarized capacitor, small symbol","C8,C15,C16",C_1206_3216Metric, C13585
+"1u Unpolarized capacitor, small symbol",C10,C_0402_1005Metric,C52923
+"10n Unpolarized capacitor, small symbol",C11,C_0402_1005Metric,C15195
+"12p Unpolarized capacitor, small symbol","C12,C13",C_0402_1005Metric,C1547
+"10n Unpolarized capacitor, small symbol",C14,C_1206_3216Metric,C1846
+"BLUE Light emitting diode, small symbol",D1,D_0603_1608Metric,C72041
+"B5819W Schottky diode, small symbol","D2,D3",D_SOD-123,C8598
+"RED Light emitting diode, small symbol",D4,D_0603_1608Metric,C2286
+"250mA Resettable fuse, polymeric positive temperature coefficient, small symbol",F1,Fuse_1206_3216Metric,C369159
+"600 @ 600MHz Ferrite bead, small symbol",FB1,L_0805_2012Metric,C1017
+MountingHole_Pad Mounting Hole with connection,"H1,H2,H3,H4",MountingHole_4.3mm_M4_Pad_Via,
+"Screw_Terminal_01x02 Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J1,"TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal",
+USB_B_Micro USB Micro Type B connector,J2,USB_Micro-B_Wuerth_629105150521,
+"I2C1 Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",J3,PinHeader_1x04_P2.54mm_Vertical,
+"USART2 Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",J4,PinHeader_1x04_P2.54mm_Vertical,
+"SWD Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",J5,PinHeader_2x05_P2.54mm_Vertical,
+"USART6 Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",J6,PinHeader_1x04_P2.54mm_Vertical,
+"CAN1 Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",J7,PinHeader_1x04_P2.54mm_Vertical,
+"USART3 Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",J8,PinHeader_1x04_P2.54mm_Vertical,
+"39n Inductor, small symbol",L1,L_0402_1005Metric,C26443
+"10u Inductor, small symbol",L2,L_Sunlord_MWSA0518_5.4x5.2mm,C139506
+"AO3401A -4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23",Q1,SOT-23,C15127
+"1k5 Resistor, small symbol",R1,R_0603_1608Metric,C22843
+"100k Resistor, small symbol",R2,R_0603_1608Metric,C25803
+"68k Resistor, small symbol",R3,R_0603_1608Metric,C23231
+"10k Resistor, small symbol",R4,R_0402_1005Metric,C25744
+"2k2 Resistor, small symbol","R5,R6",R_0603_1608Metric,C25879
+"47 Resistor, small symbol",R7,R_0402_1005Metric,C25118
+"47k Resistor, small symbol",R8,R_0603_1608Metric,C25819
+"15k Resistor, small symbol",R9,R_0603_1608Metric,C22809
+"270 Resistor, small symbol",R10,R_0603_1608Metric,C22966
+"22 Resistor, small symbol","R11,R12,R14",R_0402_1005Metric,C25092
+"1k Resistor, small symbol",R17,R_0603_1608Metric,C21190
+"SW_SPDT Switch, single pole double throw",SW1,SW_SPDT_PCM12,
+"STM32F405RGT6 ARM Cortex-M4 MCU, 1024KB flash, 128KB RAM, 168MHz, 1.8-3.6V, 51 GPIO, LQFP-64",U1,LQFP-64_10x10mm_P0.5mm,C15742
+MP2359DJ-LF-Z ,U2,SOIC127P599X175-8N,C14259
+"USBLC6-2SC6 Bidirectional ESD Protection Diode, SOT-23-6",U3,SOT-23-6,C7519
+"SN65HVD230 CAN Bus Transceivers, 3.3V, 1Mbps, Low-Power capabilities, SOIC",U4,SOIC-8_3.9x4.9mm_P1.27mm,C12084
+"16MHz Four pin crystal, GND on pins 2 and 4, small symbol",Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,C13738
